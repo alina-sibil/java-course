@@ -10,7 +10,7 @@ multiple line comment
 
 public class MyMain {
     public static void main(String[] args) {
-        //виды комментов
+        //виды принтов
         System.out.print("Hello and welcome!");
         System.out.println("2Hello and welcome!");
         System.out.print("2Hello and welcome!");
