@@ -18,6 +18,7 @@ public class MyMain {
         System.out.print("Message");
         System.out.print("\n"); //escape sequence
         System.out.print("after message");
+        System.out.print("+new commit");
 
 }
 }
